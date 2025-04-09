@@ -56,15 +56,15 @@ Letter Status Icon | package_status_weight
 
 Below is an image of the configuration screen capture when Nerd Fonts is installed.
 
-<p style="background-color: #300A24;"><img src="images/ex01.png?raw=true" width="470" /></p>
+<div style="background-color: #300A24;"><img src="images/ex01.png?raw=true" width="470" /></div>
 <hr />
-<p style="background-color: #300A24; margin-bottom: 6px;"><img src="images/ex02.png?raw=true" width="470" /></p>
-<p style="background-color: #300A24; margin-top: 6px;"><img src="images/ex03.png?raw=true" width="470" /></p>
+<div style="background-color: #300A24; margin-bottom: 6px;"><img src="images/ex02.png?raw=true" width="470" /></div>
+<div style="background-color: #300A24; margin-top: 6px;"><img src="images/ex03.png?raw=true" width="470" /></div>
 <hr />
-<p style="background-color: #300A24;"><img src="images/ex04.png?raw=true" width="470" /></p>
+<div style="background-color: #300A24;"><img src="images/ex04.png?raw=true" width="470" /></div>
 <hr />
-<p style="background-color: #300A24;"><img src="images/ex05.png?raw=true" width="470" /></p>
+<div style="background-color: #300A24;"><img src="images/ex05.png?raw=true" width="470" /></div>
 <hr />
-<p style="background-color: #300A24;"><img src="images/ex06.png?raw=true" width="470" /></p>
+<div style="background-color: #300A24;"><img src="images/ex06.png?raw=true" width="470" /></div>
 <hr />
-<p style="background-color: #300A24;"><img src="images/ex07.png?raw=true" width="470" /></p>
+<div style="background-color: #300A24;"><img src="images/ex07.png?raw=true" width="470" /></div>
