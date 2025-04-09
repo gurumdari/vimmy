@@ -16,7 +16,7 @@ $ sudo chmod +x vimmy
 ```
 
 ## Configuration
-Vimmy configuration can be done in the `~/.vim/vimmy.cfg` file.
+**_vimmy_** configuration can be done in the `~/.vim/vimmy.cfg` file.
 ```
 branch='main'
 default_category='plugins/start'
@@ -30,7 +30,7 @@ package_status_indent='   '
 package_status_space=' '
 ```
 
-The above is the basic configuration of vimmy, and only the parts different from the default value can be set in the `~/.vim/vimmy.cfg` file.
+The above is the basic configuration of **_vimmy_**, and only the parts different from the default value can be set in the `~/.vim/vimmy.cfg` file.
 
 ```
 category_normal=' '
@@ -40,7 +40,7 @@ package_status_init=' '
 package_status_normal=' '
 ```
 
-You need to install `nerd-fonts` to properly see the icons in the above settings.
+You need to install Nerd Fonts to properly see the icons in the above settings.
 
 ### **package_status_weight**
 Letter Status Icon | package_status_weight
@@ -54,18 +54,17 @@ Letter Status Icon | package_status_weight
 
 ## Example
 
-Below is an image of the configuration screen capture when `nerd-fonts` is installed.
+Below is an image of the configuration screen capture when Nerd Fonts is installed.
 
 <p style="background-color: #300A24;"><img src="images/ex01.png?raw=true" width="470" /></p>
-
+<hr />
 <p style="background-color: #300A24; margin-bottom: 6px;"><img src="images/ex02.png?raw=true" width="470" /></p>
-
 <p style="background-color: #300A24; margin-top: 6px;"><img src="images/ex03.png?raw=true" width="470" /></p>
-
+<hr />
 <p style="background-color: #300A24;"><img src="images/ex04.png?raw=true" width="470" /></p>
-
+<hr />
 <p style="background-color: #300A24;"><img src="images/ex05.png?raw=true" width="470" /></p>
-
+<hr />
 <p style="background-color: #300A24;"><img src="images/ex06.png?raw=true" width="470" /></p>
-
+<hr />
 <p style="background-color: #300A24;"><img src="images/ex07.png?raw=true" width="470" /></p>
